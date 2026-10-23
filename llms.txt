@@ -8,7 +8,7 @@
 - **经验年限**：5 年+ 前端开发（2021 年毕业，含毕业前实习）
 - **当前定位**：高级前端工程师 / 前端架构方向
 - **工作城市**：深圳（可沟通）
-- **公开链接**：GitHub https://github.com/eq1024 ｜ 博客 https://www.cnblogs.com/EQ1024
+- **公开链接**：GitHub https://github.com/eq1024 ｜ 博客 https://eq1024.github.io/
 
 ---
 
@@ -196,7 +196,7 @@
 ## 7. 链接
 
 - GitHub：https://github.com/eq1024
-- 博客：https://www.cnblogs.com/EQ1024
+- 博客：https://eq1024.github.io/
 - WinPaste：https://github.com/eq1024/WinPaste
 - 本文件：https://github.com/eq1024/career-profile/blob/main/llms.txt
 
